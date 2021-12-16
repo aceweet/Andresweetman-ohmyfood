@@ -3,6 +3,10 @@ main {
   background-color: #f6f6f6;
 }
 
+.fas {
+  width: 25px;
+}
+
 header {
   height: 3rem;
   position: relative;

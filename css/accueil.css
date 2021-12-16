@@ -133,6 +133,10 @@ main {
   margin-bottom: 3rem;
 }
 
+.fas {
+  width: 25px;
+}
+
 .reserver a:hover {
   transform: scale(1.05);
   background-position: 30%;
