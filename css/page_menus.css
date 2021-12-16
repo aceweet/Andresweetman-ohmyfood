@@ -25,6 +25,10 @@ header i {
   color: black;
 }
 
+.thin {
+  font-weight: 300;
+}
+
 .fa-arrow-left:hover {
   color: #9356dc;
 }

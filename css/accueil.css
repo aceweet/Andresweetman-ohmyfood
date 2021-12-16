@@ -138,6 +138,10 @@ main {
   background-position: 30%;
 }
 
+.thin {
+  font-weight: 300;
+}
+
 /* SECTION FONCTIONNEMENT */
 .fonctionnement {
   margin-top: 3rem;
