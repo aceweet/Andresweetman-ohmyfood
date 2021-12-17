@@ -94,6 +94,17 @@ main {
 }
 
 /* SECTION RESERVER */
+header {
+  margin-bottom: 0;
+}
+
+header h2 {
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
 .reserver {
   background-color: #f6f6f6;
   display: flex;
@@ -162,7 +173,7 @@ main {
   border-radius: 1em;
   box-shadow: 0px 5px 12px 0px rgba(0, 0, 0, 0.15);
   margin-bottom: 2rem;
-  margin-top: 2rem;
+  margin-top: 0rem;
   height: 4rem;
   transition: all 0.2s ease-in;
   position: relative;
@@ -195,18 +206,20 @@ main {
 /* SECTION RESTAURANTS */
 #restaurants {
   background-color: #efefef;
+  padding-bottom: 3rem;
 }
 
 #restaurants header {
   padding-left: 2rem;
-  padding-top: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 1em;
 }
 
 #restaurants div {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 3.5rem;
+  padding-top: 3rem;
 }
 
 article {
